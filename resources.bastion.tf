@@ -6,7 +6,7 @@ SUMMARY: Module to deploy a Bastion Host to the Hub Network
 DESCRIPTION: The following components will be options in this deployment
               Bastion Host
               Public IP
-AUTHOR/S: jspinella
+AUTHOR/S: jrspinella
 */
 
 #----------------------------------------------------------
