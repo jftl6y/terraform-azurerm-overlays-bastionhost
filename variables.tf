@@ -173,7 +173,7 @@ variable "enable_copy_paste" {
 }
 
 variable "enable_file_copy" {
-  description = "Is File Copy feature enabled for the Bastion Host. Only supported whne `sku` is `Standard`"
+  description = "Is File Copy feature enabled for the Bastion Host. Only supported when `sku` is `Standard`"
   default     = false
 }
 
@@ -188,12 +188,12 @@ variable "enable_ip_connect" {
 }
 
 variable "enable_shareable_link" {
-  description = "Is Shareable Link feature enabled for the Bastion Host. Only supported whne `sku` is `Standard`"
+  description = "Is Shareable Link feature enabled for the Bastion Host. Only supported when `sku` is `Standard`"
   default     = false
 }
 
 variable "enable_tunneling" {
-  description = "Is Tunneling feature enabled for the Bastion Host. Only supported whne `sku` is `Standard`"
+  description = "Is Tunneling feature enabled for the Bastion Host. Only supported when `sku` is `Standard`"
   default     = false
 }
 
